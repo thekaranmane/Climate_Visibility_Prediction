@@ -1,0 +1,242 @@
+2020-02-15/15:57:44		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/15:59:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/15:59:28		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2020-02-15/18:55:51		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
+2020-03-11/19:40:35		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/highvisibility_08012017_120019.csv'
+2020-03-11/19:41:14		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/highvisibility_08012017_120019.csv'
+2020-03-11/19:42:21		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:42:21		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012008_120010.csv'
+2020-03-11/19:43:02		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/highvisibility_08012017_120019.csv'
+2020-03-11/19:43:17		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:43:17		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012008_120010.csv'
+2020-03-11/19:43:30		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:43:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:43:30		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012009_120011.csv'
+2020-03-11/19:43:40		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:43:40		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:43:40		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012009_120011.csv'
+2020-03-11/19:43:55		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:43:55		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:43:55		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-03-11/19:43:55		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012010_120012.csv'
+2020-03-11/19:44:06		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:44:06		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:44:06		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-03-11/19:44:06		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2020-03-11/19:44:06		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012011_120013.csv'
+2020-03-11/19:44:17		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:44:17		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:44:17		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-03-11/19:44:17		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2020-03-11/19:44:17		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2020-03-11/19:44:17		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012012_120014.csv'
+2020-03-11/19:44:30		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:44:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:44:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-03-11/19:44:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2020-03-11/19:44:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2020-03-11/19:44:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2020-03-11/19:44:30		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012013_120015.csv'
+2020-03-11/19:45:03		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:45:03		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:45:03		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-03-11/19:45:03		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2020-03-11/19:45:03		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2020-03-11/19:45:03		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2020-03-11/19:45:03		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012013_120015.csv'
+2020-03-11/19:45:15		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/19:45:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/19:45:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-03-11/19:45:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2020-03-11/19:45:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2020-03-11/19:45:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2020-03-11/20:23:34		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-03-11/20:23:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-03-11/20:23:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-03-11/20:23:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2020-03-11/20:23:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2020-03-11/20:23:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/13:16:41		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/13:16:41		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/13:16:41		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-23/13:16:41		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/13:16:41		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-23/13:16:41		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-23/15:45:46		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/15:45:46		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/15:45:46		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-23/15:45:46		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/15:45:46		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-23/15:45:46		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-23/16:39:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/16:39:30		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/16:39:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-23/16:39:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/16:39:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-23/16:39:30		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-23/16:55:02		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/16:56:30		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/16:57:44		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/16:58:26		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2023-05-23/16:58:26		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/16:58:26		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/16:59:08		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2023-05-23/16:59:08		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/16:59:08		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/16:59:08		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-23/16:59:08		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/16:59:08		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-23/16:59:08		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-23/17:02:58		Invalid File Name!! File moved to Bad Raw Folder :: v1.csv
+2023-05-23/17:02:58		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2023-05-23/17:02:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/17:02:58		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/17:02:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-23/17:02:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/17:02:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-23/17:02:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-23/17:09:13		Invalid File Name!! File moved to Bad Raw Folder :: v1.csv
+2023-05-23/17:09:13		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2023-05-23/17:09:13		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/17:09:13		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/17:09:13		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-23/17:09:13		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/17:09:13		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-23/17:09:13		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-23/17:17:59		Invalid File Name!! File moved to Bad Raw Folder :: v1.csv
+2023-05-23/17:17:59		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2023-05-23/17:17:59		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-23/17:17:59		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-23/17:17:59		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-23/17:17:59		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-23/17:17:59		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-23/17:17:59		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/01:43:30		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/file1.csv'
+2023-05-24/02:19:35		Invalid File Name!! File moved to Bad Raw Folder :: file1.csv
+2023-05-24/02:19:35		Invalid File Name!! File moved to Bad Raw Folder :: file0.csv
+2023-05-24/02:19:35		Invalid File Name!! File moved to Bad Raw Folder :: file2.csv
+2023-05-24/02:19:35		Invalid File Name!! File moved to Bad Raw Folder :: file3.csv
+2023-05-24/02:19:35		Invalid File Name!! File moved to Bad Raw Folder :: file4.csv
+2023-05-24/02:19:35		Invalid File Name!! File moved to Bad Raw Folder :: file5.csv
+2023-05-24/02:21:05		Invalid File Name!! File moved to Bad Raw Folder :: file1.csv
+2023-05-24/02:21:05		Invalid File Name!! File moved to Bad Raw Folder :: file0.csv
+2023-05-24/02:21:05		Invalid File Name!! File moved to Bad Raw Folder :: file2.csv
+2023-05-24/02:21:05		Invalid File Name!! File moved to Bad Raw Folder :: file3.csv
+2023-05-24/02:21:05		Invalid File Name!! File moved to Bad Raw Folder :: file4.csv
+2023-05-24/02:21:05		Invalid File Name!! File moved to Bad Raw Folder :: file5.csv
+2023-05-24/02:23:52		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2023-05-24/02:23:52		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/02:23:52		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/02:23:52		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/02:23:52		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/02:23:52		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/02:23:52		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/02:28:39		Invalid File Name!! File moved to Bad Raw Folder :: file1.csv
+2023-05-24/02:28:39		Invalid File Name!! File moved to Bad Raw Folder :: file0.csv
+2023-05-24/02:28:39		Invalid File Name!! File moved to Bad Raw Folder :: file2.csv
+2023-05-24/02:28:39		Invalid File Name!! File moved to Bad Raw Folder :: file3.csv
+2023-05-24/02:28:39		Invalid File Name!! File moved to Bad Raw Folder :: file4.csv
+2023-05-24/02:28:39		Invalid File Name!! File moved to Bad Raw Folder :: file5.csv
+2023-05-24/02:28:54		Invalid File Name!! File moved to Bad Raw Folder :: file1.csv
+2023-05-24/02:28:54		Invalid File Name!! File moved to Bad Raw Folder :: file0.csv
+2023-05-24/02:28:54		Invalid File Name!! File moved to Bad Raw Folder :: file2.csv
+2023-05-24/02:28:54		Invalid File Name!! File moved to Bad Raw Folder :: file3.csv
+2023-05-24/02:28:54		Invalid File Name!! File moved to Bad Raw Folder :: file4.csv
+2023-05-24/02:28:54		Invalid File Name!! File moved to Bad Raw Folder :: file5.csv
+2023-05-24/02:29:49		Error occured while validating FileName [Errno 21] Is a directory: './uploadFiles/3c15ea17-9dc9-4ba0-b5ea-d12ee350b095'
+2023-05-24/02:31:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/02:31:34		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/02:31:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/02:31:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/02:31:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/02:31:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/02:31:34		Error occured while validating FileName [Errno 21] Is a directory: 'uploadFiles/3c15ea17-9dc9-4ba0-b5ea-d12ee350b095'
+2023-05-24/02:32:12		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/02:32:12		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/02:32:12		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/02:32:12		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/02:32:12		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/02:32:12		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/02:39:12		Invalid File Name!! File moved to Bad Raw Folder :: file1.csv
+2023-05-24/02:39:12		Invalid File Name!! File moved to Bad Raw Folder :: file0.csv
+2023-05-24/02:39:12		Invalid File Name!! File moved to Bad Raw Folder :: file2.csv
+2023-05-24/02:39:12		Invalid File Name!! File moved to Bad Raw Folder :: file3.csv
+2023-05-24/02:39:12		Invalid File Name!! File moved to Bad Raw Folder :: file4.csv
+2023-05-24/02:39:12		Invalid File Name!! File moved to Bad Raw Folder :: file5.csv
+2023-05-24/02:46:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/02:46:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/02:46:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/02:46:15		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv.csv
+2023-05-24/02:46:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/02:46:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/02:51:31		Valid File name!! File moved to GoodRaw Folder :: visibility_08012017_120019.csv.csv
+2023-05-24/02:51:31		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/02:51:31		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/02:51:31		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/02:51:31		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/02:51:31		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/02:54:24		Valid File name!! File moved to GoodRaw Folder :: visibility_08012017_120019.csv.csv
+2023-05-24/04:29:39		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/04:29:39		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/04:29:39		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/04:29:39		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/04:29:39		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/04:29:39		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/04:53:37		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/04:53:37		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/04:53:37		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/04:53:37		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/04:53:37		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/04:53:37		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/05:00:29		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/05:00:29		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/05:00:29		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/05:00:29		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/05:00:29		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/05:00:29		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/05:07:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/05:07:34		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/05:07:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/05:07:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/05:07:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/05:07:34		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/05:22:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/05:22:16		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/05:22:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/05:22:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/05:22:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/05:22:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/05:44:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/05:44:14		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/05:44:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/05:44:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/05:44:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/05:44:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/05:48:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/05:48:14		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/05:48:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/05:48:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/05:48:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/05:48:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-24/12:02:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-24/12:02:05		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-24/12:02:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-24/12:02:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-24/12:02:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-24/12:02:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-29/13:19:21		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-29/13:19:21		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-29/13:19:21		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-29/13:19:21		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-29/13:19:21		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-29/13:19:21		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2023-05-29/13:24:19		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-05-29/13:24:19		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-05-29/13:24:19		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-05-29/13:24:19		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-05-29/13:24:19		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-05-29/13:24:19		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv

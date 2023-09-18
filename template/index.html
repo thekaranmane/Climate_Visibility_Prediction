@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Prediction Page
+    </title>
+    <link rel="stylesheet" href="./../static/bootstrap/css/bootstrap.min.css">
+    <style>
+        .plzWait {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            /* background-color: rgba(0, 0, 0, 0.5); */
+            z-index: 9999;
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+
+        body{
+            background-image: url(./../static/images/1673255824_delhi-road.jpg);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 600px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="plzWait">
+        <img src="{{url_for('static', filename='images/loading.gif')}}" alt="">
+        <p>Please wait...</p>
+    </div>
+
+
+    <div class="container-fluid">
+
+        <div class="row text-center bg-danger text-light">
+            <div class="col-12">
+                <h1>
+                    CLIMATE VISIBILITY PREDICTION USING MACHINE LEARNING
+                </h1>
+            </div>
+        </div>
+
+        <div class="row align-items-start justify-content-center  mt-5">
+            <div class="col-12">
+                <h2 class="text-center text-white">
+                    Prediction
+                </h2>
+            </div>
+
+            <div class="col-4">
+
+                <form onsubmit="return onSubmit(event)" class="form-control">
+                    <label for="file">Select csv folder</label>
+                    <input type="file" name="file" id="file" class="form-control" accept=".csv" webkitdirectory
+                        directory multiple>
+                    <input type="submit" value="Upload" class="btn btn-primary mt-2">
+                </form>
+
+            </div>
+
+
+            <div class="col-4">
+                <div class="card">
+                    <div class="card-header">
+                        Result
+                    </div>
+                    <div class="card-body" style="height: 80px;">
+                        <div class="result">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-12">
+                <h2 class="text-center">
+                    <!-- clear -->
+                    <button class="btn btn-danger" onclick="clearAll()">Clear Data</button>
+                </h2>
+            </div>
+        </div>
+
+
+        <div class="row bg-danger text-light fixed-bottom">
+            <div class=" col-12">
+                <h2 class="text-center">
+                    Project By:- Karan Mane & Shruti Bhongale
+
+                </h2>
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+
+
+    <script>
+
+        function toBase64(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.readAsDataURL(file);
+                reader.onload = () => resolve(reader.result);
+                reader.onerror = error => reject(error);
+            });
+        }
+
+        async function makeBase64String(file) {
+            const base64 = await toBase64(file);
+            return base64;
+        }
+
+        async function send_post_request(url, method, body, headers1) {
+            const response = await fetch(url, {
+                method: method,
+                body: body,
+                headers: headers1
+            });
+            const data = await response.json();
+            return data;
+        }
+
+        function uploadFile(file) {
+            const url = "{{url_for('upload_file_to_predict_from_model')}}";
+            const method = 'POST';
+            const body = new FormData();
+
+            body.append('name', 'file');
+            body.append('total', file.length);
+            console.log(file[0].name);
+            body.append(file[0].name, file[0]);
+            for (let i = 0; i < file.length; i++) {
+                body.append('name' + i, file[i].name);
+                body.append('base64' + i, file[i].base64);
+            }
+            const headers = new Headers();
+            headers.append('Accept', 'application/json');
+            document.querySelector('.plzWait').style.display = 'flex';
+            send_post_request(url, method, body, headers).then(data => {
+                console.log(data);
+
+                if (data.result === 'success') {
+
+
+                    const result = document.querySelector('.result');
+                    result.innerHTML = `
+                    <p>${data.msg}</p>
+                    <a href="${data.downloadLink}" class="btn btn-primary" download>Download Prediction File</a>
+                    `;
+
+
+
+
+                } else {
+                    alert(data.msg);
+                }
+            }).catch(error => {
+                console.log(error);
+                const result = document.querySelector('.result');
+                result.innerHTML = `
+                <p>${error}</p>
+                `;
+            }).finally(() => {
+                document.querySelector('.plzWait').style.display = 'none';
+            });
+        }
+
+        function onSubmit(event) {
+            event.preventDefault();
+            const file = document.getElementById('file').files;
+            const shortFile = [];
+            for (let i = 0; i < file.length; i++) {
+                if (file[i].type === 'text/csv') {
+                    shortFile.push(file[i]);
+                }
+            }
+            console.log(shortFile);
+            if (shortFile.length === 0) {
+                alert('Please select csv folder');
+                return false;
+            }
+
+            let allBase64 = [];
+            for (let i = 0; i < shortFile.length; i++) {
+                makeBase64String(shortFile[i]).then(base64 => {
+                    allBase64.push({
+                        name: shortFile[i].name,
+                        base64: base64
+                    });
+                    if (allBase64.length === shortFile.length) {
+                        uploadFile(allBase64);
+                    }
+                });
+            }
+
+            return false;
+        }
+
+        function clearAll() {
+            let url = "{{url_for('clear_files')}}";
+            let method = 'POST';
+            let body = new FormData();
+            body.append('action', 'clear');
+            let headers = new Headers();
+            headers.append('Accept', 'application/json');
+            document.querySelector('.plzWait').style.display = 'flex';
+            send_post_request(url, method, body, headers).then(data => {
+                console.log(data);
+                if (data.result === 'success') {
+                    alert(data.msg);
+                    location.reload();
+                } else {
+                    alert(data.msg);
+                }
+            }).catch(error => {
+                console.log(error);
+                const result = document.querySelector('.result');
+                result.innerHTML = `
+                <p>${error}</p>
+                `;
+            }).finally(() => {
+                document.querySelector('.plzWait').style.display = 'none';
+            });
+        }
+
+
+    </script>
+
+
+
+</body>
+
+</html>
